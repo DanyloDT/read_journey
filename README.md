@@ -54,7 +54,7 @@ Embark on your reading adventure with these simple steps:
 1. **Clone the repository to your local machine**:
 
 ```bash
-git clone https://example.com/read-journey.git
+git clone https://github.com/DanyloDT/read_journey
 ```
 
 2. **Install the treasures (dependencies)**:
@@ -76,7 +76,7 @@ of Read Journey unfold before your eyes.
 ## 💌 Contact the Cartographers
 
 Have a map to share or need guidance on your journey? Reach out to us at
-[journey@readexample.com](mailto:journey@readexample.com). Let's chart the
+[danylodiachenko@gmail.com](mailto:danylodiachenko@gmail.com). Let's chart the
 unexplored territories of books together!
 
 ---
